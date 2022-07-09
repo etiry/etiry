@@ -7,7 +7,7 @@
 
 ## Key tools and skills
 - Tools: Python, SQL, Stata
-- Skills: data cleaning and wrangling, data visualisation, data analysis, relational databases
+- Skills: data cleaning and wrangling, web scraping, data visualisation, data analysis, relational databases
 
 ## How to reach me
 [LinkedIn](https://www.linkedin.com/in/emily-tiry/)
