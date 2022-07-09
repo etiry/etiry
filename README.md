@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**etiry/etiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Emily, a researcher and data analyst.
 
-Here are some ideas to get you started:
+- Over 9 years of research and data analysis experience
+- Currently teaching myself SQL and Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key tools and skills
+- Tools: Python, SQL, Stata
+- Skills: data cleaning and wrangling, data visualisation, data analysis, relational databases
+
+## How to reach me
+[LinkedIn](https://www.linkedin.com/in/emily-tiry/)
+
+[Website](http://www.emilytiry.com/)
